@@ -1,0 +1,5 @@
+TODO:
+Fix LICENSE with your name
+Fix Rakefile with your name and contact info
+Add your code to lib/merb-slices-search-path-fix.rb
+Add your Merb rake tasks to lib/merb-slices-search-path-fix/merbtasks.rb
