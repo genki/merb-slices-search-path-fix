@@ -8,6 +8,7 @@ if defined?(Merb::Plugins)
   
   Merb::BootLoader.before_app_loads do
     # require code that must be loaded before the application
+    require 'merb-slices-search-path-fix/merb_slices_fix'
   end
   
   Merb::BootLoader.after_app_loads do
